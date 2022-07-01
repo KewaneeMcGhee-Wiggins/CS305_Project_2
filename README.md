@@ -1,4 +1,4 @@
-# CS305_Project_2
+# CS305 Software Security:Project-2
 Kewanee McGhee
 8-1 Journal
 
